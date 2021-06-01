@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1622534735225,
+  "timestamp": 1622535553836,
   "index": "/farm-tool/index.html",
   "assetGroups": [
     {
@@ -8,8 +8,8 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/farm-tool/1-es2015.b6d927eebd869c011df3.js",
-        "/farm-tool/1-es5.b6d927eebd869c011df3.js",
+        "/farm-tool/1-es2015.7158288a0c2182907fce.js",
+        "/farm-tool/1-es5.7158288a0c2182907fce.js",
         "/farm-tool/6-es2015.35e0b001a7c305782da6.js",
         "/farm-tool/6-es5.35e0b001a7c305782da6.js",
         "/farm-tool/7-es2015.34452d0dd192301f3ed8.js",
@@ -19,13 +19,13 @@
         "/farm-tool/assets/HomePageImg.png",
         "/farm-tool/favicon.ico",
         "/farm-tool/index.html",
-        "/farm-tool/main-es2015.61994c19ba0e613c312e.js",
-        "/farm-tool/main-es5.61994c19ba0e613c312e.js",
+        "/farm-tool/main-es2015.7e0121a3cde636cd45b5.js",
+        "/farm-tool/main-es5.7e0121a3cde636cd45b5.js",
         "/farm-tool/manifest.webmanifest",
         "/farm-tool/polyfills-es2015.16c6e8bbc3b86390e6ad.js",
         "/farm-tool/polyfills-es5.3229ea25c163575fa98f.js",
-        "/farm-tool/runtime-es2015.d3f2482a00020ffcd764.js",
-        "/farm-tool/runtime-es5.d3f2482a00020ffcd764.js",
+        "/farm-tool/runtime-es2015.8ae677b862f19f524669.js",
+        "/farm-tool/runtime-es5.8ae677b862f19f524669.js",
         "/farm-tool/styles.29ea1e069011025bfb79.css"
       ],
       "patterns": []
@@ -112,8 +112,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/farm-tool/1-es2015.b6d927eebd869c011df3.js": "99ca911c9a8ca6904f365abf346dc2a14faa74fd",
-    "/farm-tool/1-es5.b6d927eebd869c011df3.js": "e6e17b12b062075e2f0c34a5aeae154f28283ca9",
+    "/farm-tool/1-es2015.7158288a0c2182907fce.js": "e413ad41cb6b24bc7eaa64ad7d9840a30b1e0288",
+    "/farm-tool/1-es5.7158288a0c2182907fce.js": "7c376e65ba4724bbe1bb4c827d19d3ade05faf72",
     "/farm-tool/6-es2015.35e0b001a7c305782da6.js": "d370a441e745da90db8de37b423a1cd40675e201",
     "/farm-tool/6-es5.35e0b001a7c305782da6.js": "45dc15c42d9572f400dd5c1fb2755207353c2422",
     "/farm-tool/7-es2015.34452d0dd192301f3ed8.js": "b1d1580a0575aeb36e0121e0d5d4900347d62ff2",
@@ -193,14 +193,14 @@
     "/farm-tool/assets/seeds/高麗菜.jpg": "83ae2139bdca7e75616f45f14a54be171d41e75e",
     "/farm-tool/assets/seeds/鳳梨.jpg": "ccf7caf76e456dffb677207b1933c3856b39a35a",
     "/farm-tool/favicon.ico": "2cd2c84e69d9b1626cf08b1064d87910ea35c7bb",
-    "/farm-tool/index.html": "e1172af05b4fcacddddfdf5a54e18e57afdef031",
-    "/farm-tool/main-es2015.61994c19ba0e613c312e.js": "c9d398562d62cbce561a74cb440a77bbb36a92a4",
-    "/farm-tool/main-es5.61994c19ba0e613c312e.js": "bd55777a65a6b9c3875f5f90d6373489223bc961",
+    "/farm-tool/index.html": "e4189e8f658ca75421c8cafc6106276c62cbe68d",
+    "/farm-tool/main-es2015.7e0121a3cde636cd45b5.js": "1540ef452c5c4834abb8496c574ec21905e051ef",
+    "/farm-tool/main-es5.7e0121a3cde636cd45b5.js": "d506811c6d112a68ee79a4cb27aba8d77b1b3d61",
     "/farm-tool/manifest.webmanifest": "bdda5b54901037d4f0fe7e8aad8a0f4cd970f786",
     "/farm-tool/polyfills-es2015.16c6e8bbc3b86390e6ad.js": "15a133b6cbb459a66fcd2e75f6aa25782e5d79c4",
     "/farm-tool/polyfills-es5.3229ea25c163575fa98f.js": "bbbd7232e325f39b473685b8b77478cfb29b8c2d",
-    "/farm-tool/runtime-es2015.d3f2482a00020ffcd764.js": "3f2a6ca3ac14f69bf48bee24d41aa29525df95e6",
-    "/farm-tool/runtime-es5.d3f2482a00020ffcd764.js": "285a806d188f7969b7ce0ae0f2926de9e053708e",
+    "/farm-tool/runtime-es2015.8ae677b862f19f524669.js": "ed77ba742ce0ab3bf690444bf25b8fb918db1fbd",
+    "/farm-tool/runtime-es5.8ae677b862f19f524669.js": "ffc142ef35c67247051c46260897cb83c43e5221",
     "/farm-tool/styles.29ea1e069011025bfb79.css": "cc32c3f3a08c3e89eff4a1b45c75e7fdc0b9b77d"
   },
   "navigationUrls": [
