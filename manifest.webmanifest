@@ -1,7 +1,7 @@
 {
   "name": "RealFarm小幫手",
-  "short_name": "RFarm Tool",
-  "theme_color": "#279b37",
+  "short_name": "Farm Tool",
+  "theme_color": "#459c7f",
   "background_color": "#fcfcfc",
   "display": "standalone",
   "scope": "./",
