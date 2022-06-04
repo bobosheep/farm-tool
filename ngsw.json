@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1654319815266,
+  "timestamp": 1654334439725,
   "index": "/farm-tool/index.html",
   "assetGroups": [
     {
@@ -61,7 +61,7 @@
         "/farm-tool/assets/DisplayCrops.jpg",
         "/farm-tool/assets/DisplayForest.jpg",
         "/farm-tool/assets/DisplayImg.jpg",
-        "/farm-tool/assets/DisplayImg2.JPG",
+        "/farm-tool/assets/DisplayImg2.jpg",
         "/farm-tool/assets/DisplayIncome.jpg",
         "/farm-tool/assets/DisplayItems.jpg",
         "/farm-tool/assets/DisplayQuestions.jpg",
@@ -339,7 +339,7 @@
     "/farm-tool/assets/DisplayCrops.jpg": "ec1ed74d8e3d8ab769105669a88d68c7f2796735",
     "/farm-tool/assets/DisplayForest.jpg": "1442f6c7716ab2cb1ee1945af989ca5287c75c22",
     "/farm-tool/assets/DisplayImg.jpg": "0ac2f5cb5cfaf18fb236a604859a31e90d91b66c",
-    "/farm-tool/assets/DisplayImg2.JPG": "f75bad288a2b778ef24db5a9f25069943721c4a1",
+    "/farm-tool/assets/DisplayImg2.jpg": "f75bad288a2b778ef24db5a9f25069943721c4a1",
     "/farm-tool/assets/DisplayIncome.jpg": "7891cbcca66116eb223aec12715cb2a230727f5d",
     "/farm-tool/assets/DisplayItems.jpg": "c208e9d14216c7fac9ff8ff36e2fcbb614f94a33",
     "/farm-tool/assets/DisplayQuestions.jpg": "c1b7823370d09fbc851303f00a3ba047f20d1a55",
