@@ -6,6 +6,40 @@
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
+  "categories": ["games", "tool"],
+  "gcm_sender_id": "26180360616",
+  "shortcuts": [
+    {
+      "name": "作物資訊",
+      "url": "/crops",
+      "description": "隨時查詢種植時間、作物放爛時間、所需技術值以及掉落物!"
+    },
+    {
+      "name": "作物養分分配",
+      "url": "/compute/nutrient",
+      "description": "想種什麼作物，基肥、肥料小幫手幫你分配好!"
+    },
+    {
+      "name": "農田收益計算",
+      "url": "/compute/income",
+      "description": "想賺大錢?小幫手幫你估算收益，讓你早日成為億萬富翁!"
+    },
+    {
+      "name": "任務資訊",
+      "url": "/tasks",
+      "description": "瀏覽所有任務要求、相關任務以及任務建議"
+    },
+    {
+      "name": "消耗品資訊",
+      "url": "/consumables",
+      "description": "了解各道具的功能、使用時機和取得方式"
+    },
+    {
+      "name": "釣魚圖鑑",
+      "url": "/fishes",
+      "description": "瀏覽魚種圖鑑，成為釣魚達人!"
+    } 
+  ],
   "icons": [
     {
       "src": "/assets/icons/LOGO-71x71.png",
